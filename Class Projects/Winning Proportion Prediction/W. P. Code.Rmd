@@ -1,10 +1,3 @@
----
-title: "Untitled"
-author: "Stacy Deng -- 305537216"
-date: "3/12/2022"
-output: html_document
----
-
 ```{r}
 #importing libraries and data
 test <- read.csv("CBDtestNoY.csv")
