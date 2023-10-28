@@ -1,7 +1,7 @@
 # Yelp Dataset Analysis
 
 ## Project Overview
-The purpose of this project is to train and evaluate models to predict the Elite status of Yelp reviwers. Four supervised learning algorithms were used in this project: Random Forest, LDA and QDA, logistic regression, and K-Nearest Neighbors.
+The purpose of this project is to train and evaluate models to predict the Elite status of Yelp reviewers. Four supervised learning algorithms were used in this project: Random Forest, LDA and QDA, logistic regression, and K-Nearest Neighbors.
 
 ## Data
 The data given to us is based off of the [Yelp Open Dataset](https://www.yelp.com/dataset), but had been modified for in-class use and is therefore not included. The dataset given included 53845 observations with 18 variables, which are as follows:
