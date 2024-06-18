@@ -1,4 +1,6 @@
 # Data Science Projects
+Some projects are being re-worked and edited so are currently not available! Will be re-added soon!
+
 ## Class Projects
 Contains all the projects assigned across 4 years of university. Classes were taught in R, so all code is done in R. Projects are all group projects, so nothing has been modified and names of all group members are left in the reports. Due to being group projects done across varying periods of time, results for some projects may be inaccurate. The datasets used in these projects are also not provided, as the datasets were originally modified and provided by professors and can not be found online.
 - [Winning Percentage Prediction](https://github.com/stacy-d-610/projects/tree/main/Class%20Projects/Winning%20Percentage%20Prediction): The aim of this Winning Percentage Prediction project is to generate a multiple linear regression model that best predicts the winning proportion of college basketball teams based on a stat sheet of games. This project is part of a private in-class Kaggle competition.
