@@ -1,4 +1,4 @@
-# Data Science Projects
+# Data Analysis Projects
 Some projects are being re-worked and edited so are currently not available! Will be re-added soon!
 
 ## Class Projects
